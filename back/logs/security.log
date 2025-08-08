@@ -1,0 +1,22 @@
+WARNING 2025-08-05 07:21:10,468 serializers 50931 128329110079168 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-05 07:25:08,004 serializers 50931 128329084901056 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-05 07:26:31,005 serializers 50931 128329101686464 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-05 07:28:03,750 serializers 50931 128329093293760 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-05 07:44:54,568 serializers 50931 128329093293760 Failed authentication attempt for phone: +966507441209 - Error: لم يتم العثور على حساب نشط للبيانات المقدمة
+WARNING 2025-08-05 07:44:54,568 middleware 50931 128329093293760 Failed authentication attempt on /api/accounts/login/ from IP: 127.0.0.1 Status: 400
+WARNING 2025-08-05 07:45:02,050 serializers 50931 128329093293760 Failed authentication attempt for phone: +966507441209 - Error: لم يتم العثور على حساب نشط للبيانات المقدمة
+WARNING 2025-08-05 07:45:02,052 middleware 50931 128329093293760 Failed authentication attempt on /api/accounts/login/ from IP: 127.0.0.1 Status: 400
+WARNING 2025-08-05 11:05:38,529 serializers 50931 128329093293760 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 00:11:36,603 serializers 13776 129568809666240 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 00:12:42,865 serializers 13776 129568809666240 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 00:26:03,442 serializers 13776 129568818058944 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 00:28:36,668 serializers 13776 129568818058944 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 00:31:38,439 serializers 13776 129568801273536 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 00:34:37,663 serializers 13776 129568818058944 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 11:18:17,046 serializers 13776 129568809666240 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 11:28:09,837 serializers 13776 129568809666240 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 11:32:03,148 serializers 13776 129568809666240 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 11:34:12,163 serializers 13776 129568818058944 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 11:39:40,945 serializers 13776 129568818058944 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-07 12:41:24,950 serializers 246741 135225682159296 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء
+WARNING 2025-08-08 05:35:37,821 serializers 10558 135973824362176 Token refresh failed - invalid token: التأشيرة مدرجة في القائمة السوداء

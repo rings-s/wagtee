@@ -1,0 +1,54 @@
+{
+  "mcpServers": {
+    "magic": {
+      "command": "npx",
+      "args": ["@magic-mcp/server"],
+      "env": {
+        "MAGIC_API_KEY": "${MAGIC_API_KEY}",
+        "MAGIC_MODE": "ui-generation",
+        "FRAMEWORK": "svelte",
+        "VERSION": "5.0"
+      },
+      "description": "Magic MCP server for UI component generation and design systems",
+      "capabilities": [
+        "component-generation",
+        "design-systems",
+        "responsive-design",
+        "accessibility",
+        "svelte-optimization"
+      ]
+    },
+    "superclaude": {
+      "command": "npx",
+      "args": ["@superclaude/mcp-server"],
+      "env": {
+        "SUPERCLAUDE_API_KEY": "${SUPERCLAUDE_API_KEY}",
+        "MODE": "frontend-development",
+        "FRAMEWORK": "svelte",
+        "AI_LEVEL": "advanced"
+      },
+      "description": "SuperClaude MCP server for AI-powered frontend development assistance",
+      "capabilities": [
+        "code-analysis",
+        "design-suggestions",
+        "performance-optimization",
+        "best-practices",
+        "svelte-runes"
+      ]
+    }
+  },
+  "frontendAgent": {
+    "name": "svelte-design-agent",
+    "description": "Intelligent frontend agent for Svelte 5 component generation and optimization",
+    "mcpDependencies": ["magic", "superclaude"],
+    "primaryFramework": "svelte5",
+    "designSystem": "shadcn-inspired",
+    "features": [
+      "component-generation",
+      "design-analysis",
+      "performance-optimization",
+      "accessibility-compliance",
+      "responsive-design"
+    ]
+  }
+}
